@@ -1,3 +1,4 @@
+#Acknowledging the use of AI (chatGPT) for creation of this section of code
 from datetime import datetime
 
 #This gets the current date and time
